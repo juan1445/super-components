@@ -1,13 +1,19 @@
-import React, {Component} from 'react'
+import React, { Component } from "react";
 class Input extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-    };
-
+    this.state = {};
   }
   render() {
-    const { label, type, placeholder, name, onChange, required } = this.props;
+    const {
+      label,
+      placeholder,
+      name,
+      onChange,
+      required,
+      type,
+      value
+    } = this.props;
     return (
       <div className="form-group">
         <label className="sr-only">{label}</label>
@@ -18,7 +24,8 @@ class Input extends Component {
           name={name}
           onChange={onChange}
           required={required}
-     />
+          value={value}
+        />
       </div>
     );
   }

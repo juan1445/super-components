@@ -1,134 +1,140 @@
 {
   "data": [
     {
-      "0": {
-        "0": {
-          "id": 1,
-          "firstName": "Cary",
-          "lastName": "Bevir",
-          "gender": "Masculino",
-          "documentType": "PS",
-          "birthDate": "1992-05-14",
-          "birthPlace": "Heung-hai",
-          "eps": "NUEVA EPS",
-          "club": "KAKAIANOS",
-          "category": "AVANZADO",
-          "address": "2 Fuller Place",
-          "municipality": "Zhengdonglu",
-          "phone": "(866) 5784690",
-          "stratum": "4",
-          "email": "cbevir0@springer.com",
-          "consult": "<button type='button' class='btn btn-danger btn-rounded btn-sm my-0 waves-effect waves-light'>Remove</button>"
-        },
-        "id": 1
-      },
-      "loading": false,
-      "error": null,
-      "data": [
-        {
-          "0": {
-            "id": 1,
-            "firstName": "Cary",
-            "lastName": "Bevir",
-            "gender": "Masculino",
-            "documentType": "PS",
-            "birthDate": "1992-05-14",
-            "birthPlace": "Heung-hai",
-            "eps": "NUEVA EPS",
-            "club": "KAKAIANOS",
-            "category": "AVANZADO",
-            "address": "2 Fuller Place",
-            "municipality": "Zhengdonglu",
-            "phone": "(866) 5784690",
-            "stratum": "4",
-            "email": "cbevir0@springer.com",
-            "consult": "<button type='button' class='btn btn-danger btn-rounded btn-sm my-0 waves-effect waves-light'>Remove</button>"
-          },
-          "id": 1
-        }
-      ],
-      "": "wqeqweqweqwe",
+      "firstName": "David",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 1
     },
     {
+      "firstName": "Jonathan",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 3
     },
     {
-      "0": {
-        "0": {
-          "id": 4
-        },
-        "loading": false,
-        "error": null,
-        "data": [
-          {
-            "id": 4
-          }
-        ],
-        "": "dw",
-        "id": 4
-      },
+      "firstName": "Jonathan",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 4
     },
     {
-      "": "qweweqweweqweqweqwe",
+      "firstName": "David",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 5
     },
     {
-      "loading": false,
-      "error": null,
-      "data": [
-        {
-          "id": 6
-        }
-      ],
-      "": "eqweqwe",
+      "firstName": "",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
+      "": "Holaklasklakslkalsañls",
       "id": 6
     },
     {
-      "Callander": "qweqweqweqweqweqweqwe",
+      "firstName": "Alirio",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 7
     },
     {
-      "0": {
-        "0": {
-          "0": {
-            "0": {
-              "0": {
-                "loading": false,
-                "error": null,
-                "data": [
-                  {
-                    "id": 8
-                  }
-                ],
-                "": "asdasdasdasdasddasdasd",
-                "id": 8
-              },
-              "loading": false,
-              "error": null,
-              "data": [
-                {
-                  "loading": false,
-                  "error": null,
-                  "data": [
-                    {
-                      "id": 8
-                    }
-                  ],
-                  "": "asdasdasdasdasddasdasd",
-                  "id": 8
-                }
-              ],
-              "": "firstNamee",
-              "id": 8
-            },
-            "id": 8
-          },
-          "id": 8
-        },
-        "id": 8
-      },
+      "firstName": "hola",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 8
     },
     {
@@ -146,10 +152,23 @@
       "phone": "",
       "stratum": "",
       "email": "",
-      "": "dasdasdasdasdd",
       "id": 9
     },
     {
+      "firstName": "",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
       "id": 10
     },
     {
@@ -238,21 +257,22 @@
       "email": "cchampneyse@businesswire.com"
     },
     {
-      "id": 16,
-      "firstName": "Clementius",
-      "lastName": "Winn",
-      "gender": "Femenino",
-      "documentType": "CC",
-      "birthDate": "1991-07-09",
-      "birthPlace": "Langley",
-      "eps": "COLSANITAS",
-      "club": "AGILES",
-      "category": "NO TIENE",
-      "address": "67848 Village Green Court",
-      "municipality": "Asquipata",
-      "phone": "(629) 1836314",
-      "stratum": "6",
-      "email": "cwinnf@craigslist.org"
+      "firstName": "",
+      "lastName": "",
+      "gender": "",
+      "documentType": "",
+      "birthDate": "",
+      "birthPlace": "",
+      "eps": "",
+      "club": "",
+      "category": "",
+      "address": "",
+      "municipality": "",
+      "phone": "",
+      "stratum": "",
+      "email": "",
+      "": "cvbncvbcv",
+      "id": 16
     },
     {
       "id": 17,
@@ -16981,32 +17001,6 @@
       "phone": "(282) 6771675",
       "stratum": "3",
       "email": "bcornickrr@blogtalkradio.com"
-    },
-    {
-      "firstName": "sdfsd",
-      "lastName": "sdfsd",
-      "gender": "sdf",
-      "documentType": "sdfsd",
-      "document": "6543654",
-      "id": 1042
-    },
-    {
-      "firstName": "Jonathan",
-      "lastName": "Isaza",
-      "gender": "Masculino",
-      "documentType": "CC",
-      "document": "1234567890",
-      "id": 1043
-    },
-    {
-      "firstName": "Juan",
-      "lastName": "Zuleta",
-      "id": 1047
-    },
-    {
-      "firstName": "Faber",
-      "lastName": "Alvarez",
-      "id": 1048
     }
   ]
 }

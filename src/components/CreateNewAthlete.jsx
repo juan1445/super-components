@@ -4,7 +4,7 @@ import Title from "../super-components/Title";
 import Grid from "../super-components/Grid";
 import { form } from "../assets/forms/SportTraining";
 import axios from "axios";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 import Option from "../super-components/Option";
 import Select from "../super-components/Select";
 
@@ -12,8 +12,7 @@ class CreateNewAthlete extends Component {
   constructor(props) {
     super(props);
 
-    this.state = {
-    };
+    this.state = {};
 
     this.forms = {
       form
@@ -67,11 +66,25 @@ class CreateNewAthlete extends Component {
                       option={label.options[0].name}
                       required
                     >
-                      {label.options.map(obj=>{
-                        if(obj.id !== "0"){
-                         return <Option valueOption={obj.name} key={obj.id} idOption={obj.id} dataOption={obj.name}/>
-                        }else{
-                          return <Option valueOption="" key={obj.id} idOption={obj.id} dataOption={obj.name}/>
+                      {label.options.map(obj => {
+                        if (obj.id !== "0") {
+                          return (
+                            <Option
+                              valueOption={obj.name}
+                              key={obj.id}
+                              idOption={obj.id}
+                              dataOption={obj.name}
+                            />
+                          );
+                        } else {
+                          return (
+                            <Option
+                              valueOption=""
+                              key={obj.id}
+                              idOption={obj.id}
+                              dataOption={obj.name}
+                            />
+                          );
                         }
                       })}
                     </Select>
@@ -80,10 +93,7 @@ class CreateNewAthlete extends Component {
               );
             })}
           </div>
-          <Link
-            to="/deportistas"
-            className="btn btn-lg btn-success"
-          >
+          <Link to="/deportistas" className="btn btn-lg btn-success">
             Enviar
           </Link>
         </form>
